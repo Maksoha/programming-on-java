@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ef19317-6670-429b-b85f-d7f2a3ec2afd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/BallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_10/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_10/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_10/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_11/MergeSortStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_11/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_11/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_12/Pyanica1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_12/Pyanica2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_12/Pyanica3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_13/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_13/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_13/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_13/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_14/BoundedWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_14/IWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_14/UnfairWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_14/WaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task1/MVCPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task1/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task1/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task2/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task2/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task2/MVCPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task3/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task3/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task3/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_15/task3/MVCCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task1/InnChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task1/InnNotValidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/AvgComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/EmptyStringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/GroupComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/LabClassUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_17/task2/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_18/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_18/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_18/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_18/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_19/ArrayToListConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_19/DirectoryToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_19/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_2/CommandLineArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_2/HarmonicSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_2/RandomArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_2/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_20/task1/RPNCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_20/task2/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_20/task2/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_20/task2/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_21/task_1/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_21/task_1/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_21/task_1/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_21/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_21/task_2/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_21/task_2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task1/AbstractComplexFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task1/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task1/ConcreteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/AbstractChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/ChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/FunctionalChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/MagicChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task2/VictorianChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/CreateImageDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/CreateMusicDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/CreateTextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/ICreateDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/IDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/ImageDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/MusicDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_22/task3/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_23/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_23/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_23/InternetOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_23/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_23/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_23/TablesOrderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_23/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/IllegalTableNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/InternetOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/OrderAlreadyAddedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/OrderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/RestaurantOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_24/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_3/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_3/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_3/BallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_3/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_4/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task123/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task123/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task123/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task123/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task123/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task45/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task45/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task45/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task45/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_6/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_6/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_7/FootballMatchSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_9/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_9/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_9/Priceable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2V1N5g8FEQ6n0R3cnbHa10tXnHi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/maksimkrestin/IdeaProjects/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/prac_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CommandLineArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac_2.CommandLineArguments" />
+      <module name="java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommandLineArguments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ef19317-6670-429b-b85f-d7f2a3ec2afd" name="Changes" comment="" />
+      <created>1693999444629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693999444629</updated>
+      <workItem from="1693999445648" duration="6999000" />
+      <workItem from="1694170188545" duration="39000" />
+      <workItem from="1694170236369" duration="156000" />
+      <workItem from="1694170399873" duration="294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/prac_20/task2/CalculatorModel.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
