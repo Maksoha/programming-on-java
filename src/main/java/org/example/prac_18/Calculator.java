@@ -2,54 +2,79 @@ package org.example.prac_18;
 
 public class Calculator {
     public static <T extends Number> T sum(T a, T b) {
-        if (a instanceof Double || b instanceof Double) {
-            return (T) Double.valueOf(a.doubleValue() + b.doubleValue());
-        } else if (a instanceof Float || b instanceof Float) {
-            return (T) Float.valueOf(a.floatValue() + b.floatValue());
-        } else if (a instanceof Long || b instanceof Long) {
-            return (T) Long.valueOf(a.longValue() + b.longValue());
-        } else {
-            return (T) Integer.valueOf(a.intValue() + b.intValue());
+        T result;
+        if ((a.getClass() == Integer.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.intValue() + b.doubleValue());
         }
+        else if ((a.getClass() == Double.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Double)(a.doubleValue() + b.intValue());
+        }
+        else if ((a.getClass() == Integer.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Integer)(a.intValue() + b.intValue());
+        }
+        else if ((a.getClass() == Double.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.doubleValue() + b.doubleValue());
+        }
+        else {
+            throw new RuntimeException();
+        }
+        return result;
     }
-
     public static <T extends Number> T multiply(T a, T b) {
-        if (a instanceof Double || b instanceof Double) {
-            return (T) Double.valueOf(a.doubleValue() * b.doubleValue());
-        } else if (a instanceof Float || b instanceof Float) {
-            return (T) Float.valueOf(a.floatValue() * b.floatValue());
-        } else if (a instanceof Long || b instanceof Long) {
-            return (T) Long.valueOf(a.longValue() * b.longValue());
-        } else {
-            return (T) Integer.valueOf(a.intValue() * b.intValue());
+        T result;
+        if ((a.getClass() == Integer.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.intValue() * b.doubleValue());
         }
+        else if ((a.getClass() == Double.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Double)(a.doubleValue() * b.intValue());
+        }
+        else if ((a.getClass() == Integer.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Integer)(a.intValue() * b.intValue());
+        }
+        else if ((a.getClass() == Double.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.doubleValue() * b.doubleValue());
+        }
+        else {
+            throw new RuntimeException();
+        }
+        return result;
     }
-
     public static <T extends Number> T divide(T a, T b) {
-        if (b.doubleValue() == 0) {
-            throw new IllegalArgumentException("Division by zero");
+        T result;
+        if ((a.getClass() == Integer.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.intValue() / b.doubleValue());
         }
-
-        if (a instanceof Double || b instanceof Double) {
-            return (T) Double.valueOf(a.doubleValue() / b.doubleValue());
-        } else if (a instanceof Float || b instanceof Float) {
-            return (T) Float.valueOf(a.floatValue() / b.floatValue());
-        } else if (a instanceof Long || b instanceof Long) {
-            return (T) Long.valueOf(a.longValue() / b.longValue());
-        } else {
-            return (T) Integer.valueOf(a.intValue() / b.intValue());
+        else if ((a.getClass() == Double.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Double)(a.doubleValue() / b.intValue());
         }
+        else if ((a.getClass() == Integer.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Integer)(a.intValue() / b.intValue());
+        }
+        else if ((a.getClass() == Double.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.doubleValue() / b.doubleValue());
+        }
+        else {
+            throw new RuntimeException();
+        }
+        return result;
     }
-
-    public static <T extends Number> T subtract(T a, T b) {
-        if (a instanceof Double || b instanceof Double) {
-            return (T) Double.valueOf(a.doubleValue() - b.doubleValue());
-        } else if (a instanceof Float || b instanceof Float) {
-            return (T) Float.valueOf(a.floatValue() - b.floatValue());
-        } else if (a instanceof Long || b instanceof Long) {
-            return (T) Long.valueOf(a.longValue() - b.longValue());
-        } else {
-            return (T) Integer.valueOf(a.intValue() - b.intValue());
+    public static <T extends Number> T subtraction(T a, T b) {
+        T result;
+        if ((a.getClass() == Integer.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.intValue() - b.doubleValue());
         }
+        else if ((a.getClass() == Double.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Double)(a.doubleValue() - b.intValue());
+        }
+        else if ((a.getClass() == Integer.class) && (b.getClass() == Integer.class)) {
+            result = (T)(Integer)(a.intValue() - b.intValue());
+        }
+        else if ((a.getClass() == Double.class) && (b.getClass() == Double.class)) {
+            result = (T)(Double)(a.doubleValue() - b.doubleValue());
+        }
+        else {
+            throw new RuntimeException();
+        }
+        return result;
     }
 }

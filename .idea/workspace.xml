@@ -4,15 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ef19317-6670-429b-b85f-d7f2a3ec2afd" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_8/GUI_Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_8/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_8/Oval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_8/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_8/Shape.java" afterDir="false" />
+    <list default="true" id="7ef19317-6670-429b-b85f-d7f2a3ec2afd" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_12/Pyanica4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_18/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task45/MovableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_1/BallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/BallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_1/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_1/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_16/Exception2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_16/ThrowsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_18/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_18/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_18/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_18/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_2/CommandLineArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_2/CommandLineArguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_3/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_3/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task123/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/prac_5/task123/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,33 +91,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/maksimkrestin/IdeaProjects/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/maksimkrestin/IdeaProjects/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/prac_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CommandLineArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac_2.CommandLineArguments" />
+  <component name="RunManager" selected="Application.org.example.prac_24.Test">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.prac_22.task3.GUI" />
       <module name="java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac_2.*" />
+          <option name="PATTERN" value="org.example.prac_22.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +128,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.prac_1.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.prac_22.task1.Test" />
       <module name="java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.prac_1.*" />
+          <option name="PATTERN" value="org.example.prac_22.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.prac_22.task2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.prac_22.task2.Test" />
+      <module name="java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.prac_22.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.prac_23.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.prac_23.Test" />
+      <module name="java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.prac_23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.prac_24.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.prac_24.Test" />
+      <module name="java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.prac_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,8 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CommandLineArguments" />
+        <item itemvalue="Application.org.example.prac_24.Test" />
+        <item itemvalue="Application.org.example.prac_23.Test" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.org.example.prac_22.task2.Test" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700301461344</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix">
+      <option name="closed" value="true" />
+      <created>1700321323760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700321323760</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +258,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -199,6 +268,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/prac_20/task2/CalculatorModel.java</url>
           <line>55</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/prac_1/BookTest.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/prac_3/BallTest.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

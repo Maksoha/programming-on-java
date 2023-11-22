@@ -42,6 +42,6 @@ public class Book {
 
     @Override
     public String toString() {
-        return "Book name is " + this.name + ", number of page is" + this.numberOfPage;
+        return "Book name is " + this.name + ", number of page is " + this.numberOfPage;
     }
 }

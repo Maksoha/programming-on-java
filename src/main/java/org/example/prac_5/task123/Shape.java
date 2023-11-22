@@ -36,6 +36,6 @@ public abstract class Shape {
 
     @Override
     public String toString() {
-        return "Shape color is" + color + " filled is" + filled;
+        return "Shape color is " + color + " filled is " + filled;
     }
 }
