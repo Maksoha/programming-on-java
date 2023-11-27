@@ -1,4 +1,4 @@
-package org.example.prac_8;
+package org.example.prac_8.task1;
 
 import java.awt.*;
 import java.util.*;
@@ -19,21 +19,21 @@ class GUI_Shapes extends JFrame {
                     int h = random.nextInt(10,200);
                     int s = random.nextInt(0,3);
                     switch (s) {
-                        case 0:
-                            Shape line = new Line(x,y,x+w,y+h,Shape.getrandomColor());
-                            g.drawLine(x,y,line.getWidth(),line.getHeight());
+                        case 0 -> {
+                            Shape line = new Line(x, y, x + w, y + h, Shape.getrandomColor());
+                            g.drawLine(x, y, line.getWidth(), line.getHeight());
                             g.setColor(line.getColor());
-                            break;
-                        case 1:
-                            Shape rectangle = new Rectangle(x,y,w,h,Shape.getrandomColor());
-                            g.drawRect(x,y,w,h);
+                        }
+                        case 1 -> {
+                            Shape rectangle = new Rectangle(x, y, w, h, Shape.getrandomColor());
+                            g.drawRect(x, y, w, h);
                             g.setColor(rectangle.getColor());
-                            break;
-                        case 2:
-                            Shape oval = new Oval(x,y,w,h,Shape.getrandomColor());
-                            g.drawOval(x,y,w,h);
+                        }
+                        case 2 -> {
+                            Shape oval = new Oval(x, y, w, h, Shape.getrandomColor());
+                            g.drawOval(x, y, w, h);
                             g.setColor(oval.getColor());
-                            break;
+                        }
                     }
                 }
             }
@@ -46,4 +46,3 @@ class GUI_Shapes extends JFrame {
         new GUI_Shapes();
     }
 }
-// Graphics2D g2 = (Graphics2D)g.create(10,10,10,10);

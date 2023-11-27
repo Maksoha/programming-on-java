@@ -1,4 +1,4 @@
-package org.example.prac_8;
+package org.example.prac_8.task1;
 
 import java.awt.*;
 
